@@ -44,8 +44,3 @@ const returnString = () => {
 
 
 console.log(returnString());
-console.log(returnString());
-console.log(returnString());
-console.log(returnString());
-console.log(returnString());
-console.log(returnString());
